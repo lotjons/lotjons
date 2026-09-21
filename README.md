@@ -1,6 +1,6 @@
 # Hej, det är jag, Lottie 👋
 
-Jag har alltid fastnat för tre saker: *människor*, *hur man når dem* och *kreativitet*.
+Jag har alltid tyckts fastnat för tre saker: *människor*, *hur man når dem* och *kreativitet*.
 
 Det har lett mig genom kundupplevelse och varumärkeskommunikation och nu in i frontend och UX/UI. En kombination som visar sig vara ganska användbar, jag förstår vad ett varumärke vill säga, tar reda på hur en användare tänker och hur man bygger det där mötet däremellan.
 

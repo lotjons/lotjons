@@ -1,16 +1,18 @@
-# Hej, jag är Lottie 👋
+# Hej, det är jag, Lottie 👋
 
-Jag har alltid fastnat för två saker: människor och hur man når dem.
+Jag tycks alltid ha fastnat för tre saker: *människor* och *hur man når dem* via *kreativitet*.
 
-Det har lett mig genom kundupplevelse och varumärkeskommunikation och nu in i frontend och UX/UI där jag bygger på mig ny kompetens. En som både vill förstå användaren och vara med och skapa det de faktiskt möter.
+Detta har lett mig genom kundupplevelse och varumärkeskommunikation och nu in i Front-end och UX/UI där jag bygger på mig ny kompetens. En kompetens som gör mig bättre på att både förstå användaren och skapa det de exponeras av.
 
 ---
 
 ## Vad jag håller på med just nu
 
-- 🎓 Studerar frontend och UX/UI
+- 🎓 Studerar Frontend och UX/UI
 - 🎨 Bygger projekt där design och kod möts
-- 🔍 Lär mig att tänka i användaren först, pixlar sedan (fast pixlarna tar ändå lite för lång tid)
+- 🔍 Arbetar analytiskt inför skapandet av kod och resultat
+- Coachar träningsfolk inom HYROX
+- Jobbar på ICA som butiksmedarbetare och content-skapare
 
 ---
 
@@ -25,7 +27,7 @@ Det har lett mig genom kundupplevelse och varumärkeskommunikation och nu in i f
 
 ## Bakgrund
 
-Jag kommer från kommunikation och kundupplevelse, vilket visar sig vara ganska användbart när man bygger saker för riktiga människor. Jag förstår vad ett varumärke vill säga och vad en användare faktiskt behöver, och försöker hitta det där mötet däremellan.
+Jag kommer från kommunikation och kundupplevelse, vilket är väldigt användbart när man bygger webbsidor, kreativa lösningar och datahantering för företag och människor. Jag förstår vad ett varumärke vill säga och hur jag tar reda på vad en användare faktiskt behöver, och försöker hitta det där mötet däremellan.
 
 ---
 
